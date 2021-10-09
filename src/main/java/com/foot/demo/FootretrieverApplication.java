@@ -8,6 +8,7 @@ public class FootretrieverApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(FootretrieverApplication.class, args);
+		System.out.println("Hello World");
 	}
 
 }
